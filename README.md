@@ -1,3 +1,3 @@
 # SoftUni-Advanced
 
-SoftUni Advanced Python course tasks.
+Code for SoftUni Advanced courses.
